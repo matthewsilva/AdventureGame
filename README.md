@@ -1,6 +1,6 @@
 # AdventureGame
 
-![](readmeImages/gameDemo.png)
+![](readmeImages/gameDemo.gif)
 A short example of character bounce, user movement, wall collisions, hunger degradation, and gameplay finalizing
 
 -------------------------------------------------------------------------------------------------
@@ -12,7 +12,7 @@ A screnshot of gameplay
 -------------------------------------------------------------------------------------------------
 
 
-![](readmeImages/gameDemo.png)
+![](readmeImages/gameEnd.png)
 The game end screen
 
 
