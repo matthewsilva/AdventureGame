@@ -2,6 +2,7 @@
 
 ![](readmeImages/gameDemo.gif)
 A short example of character bounce, user movement, wall collisions, hunger degradation, and gameplay finalizing.
+
 (Compile and run the code to see it run smoothly without gif-loading lag)
 
 -------------------------------------------------------------------------------------------------
